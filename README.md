@@ -1,7 +1,6 @@
 ### Hi/你好 👋，Welcome to My HomePage.
 
+![](./background_pic.jpg)
+
 ## GitHub 状态
 [![Lv-xinchen's github stats](https://github-readme-stats.vercel.app/api?username=drpasserby&theme=vue&show_icons=true&locale=cn)](https://github.com/drpasserby/)
-
-## 主页阅览数
-<img src="https://badges.toozhao.com/badges/01GH5P1N8DVSCB5PJB1XS9S8HQ/green.svg" width=100//>
